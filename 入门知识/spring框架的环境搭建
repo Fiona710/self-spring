@@ -1,2 +1,5 @@
 获取Spring
 Spring不再提供直接下载方式，所以可以使用Maven构建来下载Spring的构建包。在项目开发中通过配置Maven工程的pom.xml文件来下载Spring的构建包。
+
+关于IntelliJ IDEA中Maven的使用资料：
+1.http://www.phperz.com/article/15/0923/159047.html
