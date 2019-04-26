@@ -1,1 +1,2 @@
-spring
+获取Spring
+Spring不再提供直接下载方式，所以可以使用Maven构建来下载Spring的构建包。在项目开发中通过配置Maven工程的pom.xml文件来下载Spring的构建包。
